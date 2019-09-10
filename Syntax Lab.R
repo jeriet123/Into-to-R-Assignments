@@ -17,3 +17,5 @@ y
 z
 x * y + z
 x * (y + z)
+# The outputs differ becaues r follows the order of operations so when y and z are in parenthesis they are added first other wise
+# y is multiplied by x first
