@@ -45,3 +45,4 @@ Exp <- 2^2
 Exp
 input <- "D"
 if(input == "C"){"CAT"} else if(input == "D"){"DOG"} else if(input == "L"){"Lizard"} else{"RAT"}
+load("C:/Users/jeriet/Desktop/Intro to R/fish_data (1).Rdata")
