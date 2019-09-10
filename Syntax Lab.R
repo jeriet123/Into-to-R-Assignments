@@ -9,3 +9,9 @@ Remainder <- Num %% Int
 # the %/% operator divides the values and returns the dividend
 Dividend <- Num %/% Int
 Sequence <- 1:10
+x <- 4.5
+y <- 10.9 
+z <- 2.2
+x      
+y
+z
