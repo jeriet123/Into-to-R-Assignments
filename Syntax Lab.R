@@ -37,4 +37,9 @@ N
 # NULL is returned when a Function contained undefined values. like when the function is empty
 fahrenheit <- function(celsius){celsius * 1.8 + 32}
 fahrenheit(30)
-
+Int_Div <- 9 / 5
+Int_Div
+Modu <- 9%%5
+Modu
+Exp <- 2^2
+Exp
