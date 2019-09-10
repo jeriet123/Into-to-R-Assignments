@@ -46,3 +46,11 @@ Exp
 input <- "D"
 if(input == "C"){"CAT"} else if(input == "D"){"DOG"} else if(input == "L"){"Lizard"} else{"RAT"}
 load("C:/Users/jeriet/Desktop/Intro to R/fish_data (1).Rdata")
+str(fish)
+#There is 2026 row and 23 columns
+str(fish$year)
+str(fish)
+# There is seven characters, five factors, eight numbers,, tow POSIXct, and one integer
+fish$area_fac <- as.character(fish$area_fac)
+fish <- fish[-c(0,10)]
+
