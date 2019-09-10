@@ -35,3 +35,6 @@ Nulification <- function(x){}
 N <- F(3)
 N
 # NULL is returned when a Function contained undefined values. like when the function is empty
+fahrenheit <- function(celsius){celsius * 1.8 + 32}
+fahrenheit(30)
+
